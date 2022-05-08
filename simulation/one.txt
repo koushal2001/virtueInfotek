@@ -1,0 +1,8 @@
+cache and TLB information Node(0):			
+0xb0: instruction TLB: 4K	4-way	128 entries	
+0x05: data TLB: 4M pages	4-way	32 entries	
+0x57: L1 data TLB: 4K pages	4-way	16 entries	
+L1 TLB/cache information: 2M/4M pages & L1 TLB (0x80000005/eax):			
+L1 TLB/cache information: 4K pages & L1 TLB (0x80000005/ebx):			
+L2 TLB/cache information: 2M/4M pages & L2 TLB (0x80000006/eax):			
+L2 TLB/cache information: 4K pages & L2 TLB (0x80000006/ebx):			

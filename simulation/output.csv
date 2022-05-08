@@ -1,0 +1,7 @@
+   cache and TLB information (2):
+   L1 TLB/cache information: 2M/4M pages & L1 TLB (0x80000005/eax):
+   L1 TLB/cache information: 4K pages & L1 TLB (0x80000005/ebx):
+   L2 TLB/cache information: 2M/4M pages & L2 TLB (0x80000006/eax):
+   L2 TLB/cache information: 4K pages & L2 TLB (0x80000006/ebx):
+   L1 TLB information: 1G pages (0x80000019/eax):
+   L2 TLB information: 1G pages (0x80000019/ebx):
