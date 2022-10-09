@@ -1,5 +1,5 @@
 cache and TLB information Node(1):			
-0xb1: instruction TLB: 2M	4-way	8 entries	
+0xb1: instruction TLB: 2M	4-way	8 entries    
 0x56: L1 data TLB: 4M pages	4-way	16 entries	
 0xb4: data TLB: 4K pages	4-way	256 entries	
 L1 TLB/cache information: 2M/4M pages & L1 TLB (0x80000009/eax):			
