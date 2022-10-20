@@ -7,6 +7,8 @@ class IGraph(metaclass=ABCMeta):
         pass
 
 
+    
+    
     @abstractmethod
     def edges(self):
         pass
